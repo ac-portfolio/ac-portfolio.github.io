@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Student Name
+title: Abhishek Choudhary
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/British_Museum_Reading_Room%2C_reading_desk_F1.jpg/640px-British_Museum_Reading_Room%2C_reading_desk_F1.jpg
