@@ -1,4 +1,4 @@
-## Sahaja Katta
+## Abhishek Choudhary
 ### Graphics Artist & Animator
 # Portfolio
 

@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sahaja Katta"
+  name   : "Abhishek Choudhary"
   avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
   bio    : "BFA Animation - Final year. Bring art to life."
   links:
